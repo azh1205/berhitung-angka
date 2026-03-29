@@ -47,7 +47,7 @@ Jika kamu ingin menjalankan atau mengembangkan game ini sebagai aplikasi desktop
 - **HTML5**: Struktur halaman dan elemen game.
 - **CSS3**: Styling, animasi gelembung, dan efek visual.
 - **JavaScript (Vanilla)**: Logika game, perhitungan, dan interaksi.
-- **Electron**: Pembungkus aplikasi desktop (opsional).
+- **Electron**: aplikasi desktop untuk windows.
 
 ---
 
